@@ -1,0 +1,52 @@
+body{
+	    background-color: #545133;
+}
+.contaner{
+	height: 1000px;
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #e6dddd;
+}
+.contant{
+	width: 100%;
+    height: 90%;
+    overflow: hidden;
+    background-color: red;
+}
+.list{
+	height: 100%;
+    width: 25%;
+    float: left;
+    background-color: #89adb3;
+}
+.search{
+	height: 10%;
+    width: 75%;
+    float: left;
+    background-color: #a1d09b;
+}
+.introduction{
+	height: 35%;
+    width: 42%;
+    float: left;
+    background-color: #e08f16;
+}
+.suggestions{
+	height: 35%;
+    width: 33%;
+    float: left;
+    background-color: #773434;
+}
+.video{
+	height: 55%;
+    width: 75%;
+    float: left;
+    background-color: #14252d;
+}
+.footer{
+	height: 10%;
+    width: 100%;
+    overflow: hidden;
+    background-color: #FF5722;
+}
